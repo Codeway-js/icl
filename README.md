@@ -16,7 +16,7 @@ or directly in the terminal:
 `icl -n ConstOil.logik\(\"hello World\"\)`
 ### syntaxe
 the changement to cl and js is syntaxe of word(the main syntaxe is the same).
-for exemple: for become farand this for all the world in the [translate.json file](https://github.com/)
+for exemple: for become farand this for all the world in the [translate.json file](https://github.com/leblanmonster/icl/blob/main/bin/translate.json)
 #### /!\ the problem is you can not use this word in a variable name (in string is good)
 
 ### contributing
