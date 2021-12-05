@@ -4,7 +4,9 @@ it is a CLI so you must global install like that:
 `npm i -g icl`
 ## use
 there 2 mode:
+
 -command line (-n)
+
 -file (-o)
 ### exemple
 from file:
