@@ -1,0 +1,15 @@
+{
+  "name": "icl",
+  "version": "1.0.1",
+  "description": "it is 'langage'(js modify where words becaume other (like for becom far))",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {  
+    "icl": "./bin/index.js"  
+  },
+  "keywords": ["cli","icl"],
+  "author": "",
+  "license": "ISC"
+}
